@@ -1,5 +1,4 @@
 # packages
-- python docuple
 - create file called setting, into the files settings create a files ci.py, development.py and others
 - 
 - create migrate
